@@ -56,7 +56,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "adr.fantini+website@gmail.com"  # For a direct email link, use "mailto:test@example.org". For pointing to the contact widget, use "#contact"
+  link = "mailto:adr.fantini+website@gmail.com"  # For a direct email link, use "mailto:test@example.org". For pointing to the contact widget, use "#contact"
 
 [[social]]
   icon = "researchgate"
