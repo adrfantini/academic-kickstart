@@ -5,7 +5,7 @@ authors = ["Adriano Fantini", "Erika Coppola", "Marco Verdecchia", "Graziano Giu
 publication_types = ["3"]
 abstract = ""
 featured = false
-publication = "*in preparation*"
+publication = "*In preparation*"
 +++
 
 This paper describes the new GRidded Italian Precipitation Hourly Observations (GRIPHO) dataset. It is still a work in progress, but we hope it'll be sumbitted shortly.

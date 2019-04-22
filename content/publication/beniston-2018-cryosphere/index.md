@@ -1,5 +1,5 @@
 +++
-title = "The European mountain cryosphere: a~review of its current state, trends, and future challenges"
+title = "The European mountain cryosphere: a review of its current state, trends, and future challenges"
 date = 2018-01-01
 authors = ["M. Beniston", "D. Farinotti", "M. Stoffel", "L. M. Andreassen", "E. Coppola", "N. Eckert", "A. Fantini", "F. Giacona", "C. Hauck", "M. Huss", "H. Huwald", "M. Lehning", "J.-I. López-Moreno", "J. Magnusson", "C. Marty", "E. Morń-Tejá", "S. Morin", "M. Naaim", "A. Provenzale", "A. Rabatel", "D. Six", "J. Stötter", "U. Strasser", "S. Terzago", "C. Vincent"]
 publication_types = ["2"]
