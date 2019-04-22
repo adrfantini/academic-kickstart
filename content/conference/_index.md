@@ -6,10 +6,12 @@ title = "Conferences attended"
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 1
+view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""
 +++
+
+Here is a list of the conferences and workshops that I attended and/or contributed to, with talks and posters.
