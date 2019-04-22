@@ -5,19 +5,19 @@ permalink: /mountains/
 author_profile: true
 
 [[gallery_item]]
-album = "1"
-image = "mountain/Belluno_valley.jpg"
-caption = "WThe beautiful Belluno valley as seen from halfway up Mount Terne"
+album: "1"
+image: "mountain/Belluno_valley.jpg"
+caption: "WThe beautiful Belluno valley as seen from halfway up Mount Terne"
 
 [[gallery_item]]
-album = "1"
-image = "mountain/Belluno_valley_from_Mis.jpg"
-caption = "Again the lower Belluno valley as seen from the entrance to the Mis valley, in a foggy day"
+album: "1"
+image: "mountain/Belluno_valley_from_Mis.jpg"
+caption: "Again the lower Belluno valley as seen from the entrance to the Mis valley, in a foggy day"
     
 [[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark theme"
+album: "1"
+image: "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption: "Dark theme"
 ---
 
 
