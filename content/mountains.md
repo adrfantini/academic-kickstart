@@ -50,11 +50,6 @@ The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the Ki
 A marmot!
 ![](/images/mountain/Marmot.jpg)
 
-<!--| Hey | Hey2 |
-| --- | ---  |
-| The top of mount Terne, with the Gusela on the background. In winter... | ...and in summer! (my brother is in this picture, too!) |
-| ![](/images/mountain/M_Terne_winter.JPG) | ![](/images/mountain/M_Terne_summer.JPG) |-->
-
 ---
-<div style="text-align: right"> Copyright © {{ site.time | date: '%Y' }} {{ site.author.name }} </div>
+<div style="text-align: right"> Copyright © {{ now.Format "2006"} {{ .Site.Author }} </div>
 
