@@ -7,7 +7,7 @@ author_profile: true
 
 I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
 
-{{< gallery album="<images>" >}}
+{{< gallery album="images/" >}}
 
 The beautiful Belluno valley as seen from halfway up Mount Terne
 ![](images/Belluno_valley.jpg)
