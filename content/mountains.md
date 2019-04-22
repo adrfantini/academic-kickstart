@@ -3,13 +3,6 @@ layout: archive
 title: "Mountains"
 permalink: /mountains/
 author_profile: true
----
-
-
-
-I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
-
----
 
 [[gallery_item]]
 album = "1"
@@ -25,6 +18,13 @@ caption = "Again the lower Belluno valley as seen from the entrance to the Mis v
 album = "1"
 image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
 caption = "Dark theme"
+---
+
+
+
+I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
+
+---
 
 {{< gallery album="1" >}}
 
