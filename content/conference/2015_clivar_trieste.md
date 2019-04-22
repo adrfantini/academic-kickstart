@@ -6,11 +6,14 @@ permalink: /talks/2015_clivar_trieste
 venue: "International Centre for Theoretical Physics"
 date: 2015-11-24
 location: "Trieste, Italy"
+summary: "A workshop on climate variability I attended as a student."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2015_clivar_trieste.pdf)
 
 [More info here](http://indico.ictp.it/event/a14266/)
+
+A workshop on climate variability I attended as a student
 
 ![Conference photo](http://indico.ictp.it/event/a14266/material/14/0.jpg)
 

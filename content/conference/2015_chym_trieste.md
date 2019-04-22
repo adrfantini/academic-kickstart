@@ -6,6 +6,7 @@ permalink: /talks/2015_chym_trieste
 venue: "International Centre for Theoretical Physics"
 date: 2015-05-08
 location: "Trieste, Italy"
+summary: "This was my first CHyM (CETEMPS Hydrological Model) workshop."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2015_chym_trieste.pdf)

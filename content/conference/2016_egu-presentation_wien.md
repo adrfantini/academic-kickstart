@@ -6,6 +6,7 @@ permalink: /talks/2016_egu-presentation_wien
 venue: "Austria Center Vienna"
 date: 2016-04-22
 location: "Wien, Austria"
+summary: "This was my first EGU conference. This conference is huge (~15k scientists), and I had the honor to present my work in a 15 minutes oral presentation."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2016_egu-presentation_wien.pdf)

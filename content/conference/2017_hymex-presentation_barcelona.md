@@ -6,6 +6,7 @@ permalink: /talks/2017_hymex-presentation_barcelona
 venue: "Faculty of Physics, University of Barcelona"
 date: 2017-07-07
 location: "Barcelona, Spain"
+summary: "In this HyMeX conference I presented the first steps in the data cleaning and homogeneisation of the discharge and precipitation datasets that I used later in my PhD thesis."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2017_hymex-presentation_barcelona.pdf)

@@ -6,7 +6,7 @@ permalink: /talks/2019_egu-poster_wien
 venue: "Austria Center Vienna"
 date: 2019-04-12
 location: "Wien, Austria"
-summary: "This was my fourth EGU conference. I authored a poster and co-authored a presentation and a poster"
+summary: "This was my fourth EGU conference. I authored a poster and co-authored a presentation and a poster."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2019_egu-poster_wien.pdf)
