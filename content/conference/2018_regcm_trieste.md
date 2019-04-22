@@ -6,6 +6,7 @@ permalink: /talks/2018_regcm_trieste
 venue: "International Centre for Theoretical Physics"
 date: 2018-06-08
 location: "Trieste, Italy"
+summary: "This was my third RegCM workshop. I acted as a lab assistant and helped with students; additionally I also gave a 25 minutes presentation."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2018_regcm_trieste.pdf)

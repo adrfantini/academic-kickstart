@@ -6,6 +6,7 @@ permalink: /talks/2018_egu-poster_wien
 venue: "Austria Center Vienna"
 date: 2018-04-13
 location: "Wien, Austria"
+summary: "This was my third EGU conference. I authored and coauthored two posters."
 ---
 
 [Partecipation certificate](https://adrfantini.github.io/files/part_cert/2018_egu-poster_wien.pdf)
