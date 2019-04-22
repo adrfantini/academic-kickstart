@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "/talk/"
+  url = "/conference/"
   weight = 45
 
 [[main]]
