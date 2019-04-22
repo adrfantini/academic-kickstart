@@ -10,3 +10,4 @@ url_pdf = "https://www.the-cryosphere.net/12/759/2018/"
 doi = "10.5194/tc-12-759-2018"
 +++
 
+This paper is a general review on the European mountain cryosphere. I contributed some data analysis towards this work.

@@ -8,3 +8,4 @@ featured = false
 publication = "*in preparation*"
 +++
 
+This paper describes the new GRidded Italian Precipitation Hourly Observations (GRIPHO) dataset. It is still a work in progress, but we hope it'll be sumbitted shortly.

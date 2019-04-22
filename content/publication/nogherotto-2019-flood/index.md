@@ -8,3 +8,4 @@ featured = false
 publication = "*in preparation*"
 +++
 
+This paper, first authored by Rita Nogherotto, describes our three-model chain (climate + hydrological + hydraulic) to simulate flood hazard over the Po river basin. This approach has since then been extended to the comeplete Italian territory. Additionally, a case study is presented to validate our findings. This is still a work in progress, but we hope it'll be sumbitted shortly.
