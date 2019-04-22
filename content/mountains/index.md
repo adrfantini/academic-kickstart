@@ -3,18 +3,17 @@ layout: archive
 title: "Mountains"
 permalink: /mountains/
 author_profile: true
-
+---
 [[gallery_item]]
 album : "images"
 image : "Belluno_valley.jpg"
 caption : "The beautiful Belluno valley as seen from halfway up Mount Terne"
----
 
 I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
 
-{{< gallery album="images" >}}
+{{< gallery album="images/" >}}
 
-<!--The beautiful Belluno valley as seen from halfway up Mount Terne
+The beautiful Belluno valley as seen from halfway up Mount Terne
 ![](images/Belluno_valley.jpg)
 
 Again the lower Belluno valley as seen from the entrance to the Mis valley, in a foggy day
@@ -51,4 +50,4 @@ The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the Ki
 ![](images/Zoldo_from_M_Punta.jpeg)
 
 A marmot!
-![](images/Marmot.jpg)-->
+![](images/Marmot.jpg)
