@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-{% include base_path %}
+
 
 I was born in [Belluno](https://it.wikipedia.org/wiki/Belluno), Italy in 1990, where I lived until I had to move in order to attend university. I now live in [Trieste](https://it.wikipedia.org/wiki/Trieste) together with my girlfriend and our wonderful daughter, born in 2010.
 
@@ -17,4 +17,4 @@ I'm particularly interested in technology and its role in shaping modern society
 
 I am an avid reader: I read all kind of books, but enjoy fantasy, historical and mountaineering books the most. [Here](https://adrfantini.github.io/books/) you can read about a few of my favourite books and comics.
 
-Living in Belluno for the most part of my youth left me with a constitutional and unconditioned love for mountains. I love climbing, trekking and hiking, and always find refuge in mountaineering when possible. Read more about it [here](https://adrfantini.github.io/mountains/).
+Living in Belluno for the most part of my youth left me with a constitutional and unconditioned love for mountains. I love climbing, trekking and hiking, and always find refuge in mountaineering when possible. Read more about it [here](https://adrfantini.github.io/mountains/) [here] ( {{< ref "/mountains/">}}).
