@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Providing technical support
   """
 
-[[experience]]
+<!--[[experience]]
   title = "Ph.D. Student"
   company = "University of Trieste, dept. of Mathematics and Geosciences"
   company_url = "https://web.units.it/dottorato/esfm/en"
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   location = "Trieste, Italy"
   date_start = "2009​-10-01"
   date_end = "2012-11-26"
-  description = """Thesis title: _Use of the Arduino microcontroller to carry out measurements in the teaching of Physics in laboratories_ (in Italian)"""
+  description = """Thesis title: _Use of the Arduino microcontroller to carry out measurements in the teaching of Physics in laboratories_ (in Italian)"""-->
 
 +++
