@@ -5,13 +5,20 @@ title = "Mountains"
 
 [[gallery_item]]
   album = "images"
-  image = "Belluno_valley.jpg"
+  image = "mountain/Belluno_valley.jpg"
   caption = "The beautiful Belluno valley as seen from halfway up Mount Terne"
-  
+
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Belluno_valley_from_Mis.jpg"
+  caption = "The lower Belluno valley as seen from the entrance to the Mis valley in a foggy day"
+
 +++
 
 
 I started mountaineering when I was 16, and I have trodden many hundreds of kilometers of paths and routes since then. Here's a small collection of a few of my favourite mountain pictures, taken by friends or by myself during hikes or climbs. To me they are not only pretty images, but fond memories of great times.
+
+Click on the images for an interactive gallery.
 
 {{< gallery album="images" >}}
 
