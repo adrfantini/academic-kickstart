@@ -9,7 +9,7 @@ author_profile: true
 
 I recently built my own low-power home server, which runs on [ArchLinux](www.archlinux.org) (my favourite distribution) and provides cloud storage and streaming services for my family.
 The server houses a low power mini-ITX motherboard with a soldered Intel Apollo Lake J3455 4-core CPU.
-It has room for 4 standard 3.5" hard drives; currently it runs two 3TB data disks and one 1TB drive for OS backups and caches.
+It has room for 4 standard 3.5" hard drives; currently it runs two 3TB data disks and one 1TB drive for OS backups and system caches.
 The OS is hosted on a 500GB M.2 SSD.
 
 Notable software:
@@ -19,7 +19,9 @@ Notable software:
 - [NextCloud](https://nextcloud.com) for data sharing in the cloud;
 - [Plex](https://www.plex.tv) for video and music streaming;
 - [NFS](https://en.wikipedia.org/wiki/Network_File_System_(protocol)) and [SFTP](https://www.ssh.com/ssh/sftp/) for remote access to data;
-- [BTRFS](https://en.wikipedia.org/wiki/Btrfs) for data mirroring and protection;
+- [BTRFS](https://en.wikipedia.org/wiki/Btrfs) for data mirroring and [bitrot](https://en.wikipedia.org/wiki/Data_degradation) protection;
+- [rsync](https://en.wikipedia.org/wiki/Rsync) for scheduled off-site backups;
+- [systemd](https://en.wikipedia.org/wiki/Systemd) timers and services for scheduling scripts and maintenance jobs;
 - A [Steam](https://store.steampowered.com) cache is currently my next upcoming improvement.
 
 <img src="/img/server/serverino.JPG" style="width:50%;" title="My small home-built server">
