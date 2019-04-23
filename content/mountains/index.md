@@ -6,12 +6,55 @@ title = "Mountains"
 [[gallery_item]]
   album = "images"
   image = "mountain/Belluno_valley.jpg"
-  caption = "The beautiful Belluno valley as seen from halfway up Mount Terne"
-
+  caption = "The beautiful Belluno valley from halfway up Mount Terne"
 [[gallery_item]]
   album = "images"
   image = "mountain/Belluno_valley_from_Mis.jpg"
   caption = "The lower Belluno valley as seen from the entrance to the Mis valley in a foggy day"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Campanile_Montanaja.JPG"
+  caption = "The king of the Montanaja valley emerges from the clouds"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Cansiglio_Forest.JPG"
+  caption = "The Cansiglio forest in a cold winter day"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Lake_sorapiss.jpg"
+  caption = "Lake Sorapiss with its incredible colour, from the via ferrata Vandelli"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/M_Civetta_from_Rif_Tissi.jpg"
+  caption = "Panorama from the gloriously placed Tissi hut, under the famous mount Civetta North-West face"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/M_Terne_winter.JPG"
+  caption = "The top of mount Terne, with the Gusela on the background. In winter..."
+[[gallery_item]]
+  album = "images"
+  image = "mountain/M_Terne_summer.JPG"
+  caption = "...and in summer! (my brother is somewhere in this picture, too!)"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Pale_San_Martino.jpg"
+  caption = "The San Martino plateau as seen from the top of the Fradusta"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Pale_San_Martino_lake.jpg"
+  caption = "The meltwater lake create by the small -- and dying -- Fradusta glacier, on the San Martino plateau"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Visentin_chain.JPG"
+  caption = "The low mountain chain that extends from mount Visentin and separates the Belluno valley from Treviso"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Zoldo_from_M_Punta.jpeg"
+  caption = "The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the King, mount Pelmo, in the center"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/Marmot.jpg"
+  caption = "A marmot!"
 
 +++
 
@@ -21,42 +64,3 @@ I started mountaineering when I was 16, and I have trodden many hundreds of kilo
 Click on the images for an interactive gallery.
 
 {{< gallery album="images" >}}
-
-<!--The beautiful Belluno valley as seen from halfway up Mount Terne
-![](images/Belluno_valley.jpg)
-
-Again the lower Belluno valley as seen from the entrance to the Mis valley, in a foggy day
-![](images/Belluno_valley_from_Mis.jpg)
-
-The king of the Montanaja valley emerges from the clouds
-![](images/Campanile_Montanaja.JPG)
-
-The Cansiglio forest in a cold winter day
-![](images/Cansiglio_Forest.JPG)
-
-Lake Sorapiss with its incredible colour, from the via ferrata Vandelli
-![](images/Lake_sorapiss.jpg)
-
-Panorama from the gloriously placed Tissi hut, under the famous mount Civetta North-West face
-![](images/M_Civetta_from_Rif_Tissi.jpg)
-
-The top of mount Terne, with the Gusela on the background. In winter...
-![](images/M_Terne_winter.JPG)
-
-...and in summer! (my brother is somewhere in this picture, too!)
-![](images/M_Terne_summer.JPG)
-
-The San Martino plateau as seen from the top of the Fradusta
-![](images/Pale_San_Martino.jpg)
-
-The meltwater lake create by the small -- and dying -- Fradusta glacier, on the San Martino plateau
-![](images/Pale_San_Martino_lake.jpg)
-
-The low mountain chain that extends from mount Visentin and separates the Belluno valley from Treviso
-![](images/Visentin_chain.JPG)
-
-The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the King, mount Pelmo, in the center
-![](images/Zoldo_from_M_Punta.jpeg)
-
-A marmot!
-![](images/Marmot.jpg)-->
