@@ -18,21 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master's Student"
-  company = "University of Trieste, dept. of Physics"
-  company_url = "https://df.units.it/"
+  title = "Visiting scientist"
+  company = "ICTP-ESP"
+  company_url = "https://www.ictp.it/research/esp/members.aspx"
   location = "Trieste, Italy"
-  date_start = "2012-12-20"
-  date_end = "2015-03-20"
-  description = """Specialisation in Earth Sciences. Thesis title: _Evaluation of the impact of the high resolution for the Alpine region in a present-day and future scenario simulation with the regional climate model RegCM4_"""
+  date_start = "2019-03-15"
+  date_end = ""
+  description = """
+  Responsibilities include:
 
-[[experience]]
-  title = "Bachelor Student"
-  company = "University of Trieste, dept. of Physics"
-  company_url = "https://df.units.it/"
-  location = "Trieste, Italy"
-  date_start = "2009​-10-01"
-  date_end = "2012-11-26"
-  description = """Thesis title: _Use of the Arduino microcontroller to carry out measurements in the teaching of Physics in laboratories_ (in Italian)"""
+  * Analysing and handling data
+  * Modelling climate and hydrology
+  * Providing technical support
+  """
 
-+++
+  +++
