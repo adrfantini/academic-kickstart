@@ -42,7 +42,7 @@ title = "Mountains"
 [[gallery_item]]
   album = "images"
   image = "mountain/Pale_San_Martino_lake.jpg"
-  caption = "The meltwater lake create by the small -- and dying -- Fradusta glacier, on the San Martino plateau"
+  caption = "The meltwater lake create by the small - and dying - Fradusta glacier, on the San Martino plateau"
 [[gallery_item]]
   album = "images"
   image = "mountain/Visentin_chain.JPG"
