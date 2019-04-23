@@ -17,11 +17,12 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Visiting scientist"
   company = "ICTP-ESP"
   company_url = "https://www.ictp.it/research/esp/members.aspx"
-  location = "Trieste, Italy"
+  location = "Trieste"
   date_start = "2019-03-15"
   date_end = ""
   description = """
@@ -31,5 +32,4 @@ date_format = "Jan 2006"
   * Modelling climate and hydrology
   * Providing technical support
   """
-
-  +++
++++
