@@ -22,7 +22,7 @@ Notable software:
 - [BTRFS](https://en.wikipedia.org/wiki/Btrfs) for data mirroring and protection;
 - A [Steam](https://store.steampowered.com) cache is currently my next upcoming improvement.
 
-![My small home-built server](server/serverino.JPG){:height="360px" width="360px"}
+![My small home-built server](/img/server/serverino.JPG){:height="360px" width="360px"}
 
 The server sits in our bedroom, so the challenge was to make it almost completely silent: this was accomplished by building a small wooden, noise-absorbing case, around 22x22x25cm in size. This is a prototype which I plan to improve on in the next iteration.
 
