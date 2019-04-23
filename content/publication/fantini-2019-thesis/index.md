@@ -12,7 +12,3 @@ url_pdf = "http://hdl.handle.net/11368/2940009"
 
 This is the final version of my PhD thesis, the result of three years of hard work. A full-resolution version of this work can be found [here](http://users.ictp.it/~afantini/PhD_thesis/PhD_thesis_final_15feb2019.pdf).
 
-The evaluation from the committee was the following:
-
-<!-- > Le ricerche della tesi sono di grande interesse, rilevanza e utilità. Le metodologie utilizzate sono tra le più innovative. I risultati sono molto interessanti, ma avrebbero beneficiato di un'analisi quantitativa più approfondita. Nel colloquio il candidato dimostra ottime conoscenze delle problematiche trattate e ottime capacità espositive. La Commissione unanime giudica ottimo il lavoro svolto e approva la tesi sopra citata. Titolo conseguito con lode.-->
-> The research conducted is of great interest, relevant and usefulness. The research methodologies are among the most innovative. The research results are very interesting, but they would have benefitted from a more thorough quantitative analysis. During the interview the applicant shows excellent knowledge of the topic and excellent presentation skills. The Board unanimously assesses the work carried out as excellent and approves the thesis. Title awarded _cum laude_.
