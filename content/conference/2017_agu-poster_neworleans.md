@@ -6,7 +6,7 @@ permalink: /talks/2017_agu-poster_neworleans
 venue: "Ernest N. Morial Convention Center"
 date: 2017-12-15
 location: "New Orleans, Lousiana, USA"
-summary: "I did not attend this conference personally, but my PhD supervisor, Erika Coppola, presented [my poster](https://docs.google.com/presentation/d/1GfA-7w-iK4GRgm9tBti-8rTxoKxjFqnNMQgsYhwQ9DU/edit?usp=sharing) on our previous work."
+summary: "I did not attend this conference personally, but my PhD supervisor, Erika Coppola, presented my poster on our previous work."
 ---
 
 I did not attend this conference personally, but provided a poster.
