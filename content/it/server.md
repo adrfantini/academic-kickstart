@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My personal server"
+title: "Il mio server personale"
 permalink: /server/
 author_profile: true
 ---
