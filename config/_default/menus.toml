@@ -23,10 +23,15 @@
   url = "/publication/"
   weight = 40
 
+# [[main]]
+#   name = "Conferences"
+#   url = "/conference/"
+#   weight = 45
+
 [[main]]
   name = "Conferences"
-  url = "/conference/"
-  weight = 45
+  url = "/talk/"
+  weight = 47
 
 [[main]]
  name = "Personal life"
