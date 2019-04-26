@@ -15,39 +15,69 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "80%"
-  
+  icon = "cloud-sun-rain"
+  icon_pack = "fas"
+  name = "Climate"
+  description = ""
+
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "50%"
-  
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = "60%"
+  icon = "water"
+  icon_pack = "fas"
+  name = "Flood hazard"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "60%"  
+  description = ""
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = ""
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = ""
+  
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "High Performance Computing"
+  description = ""
   
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
   name = "GIS"
-  description = "70%"  
+  description = ""
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "90%"
+  description = ""
+  
+# [[feature]]
+#   icon = "windows"
+#   icon_pack = "fab"
+#   name = "Windows"
+#   description = ""
+  
+# [[feature]]
+#   icon = "file-excel"
+#   icon_pack = "fas"
+#   name = "Microsoft Office"
+#   description = ""
 
 +++
