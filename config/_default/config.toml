@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "&copy; {year} Adriano Fantini · I authorise the treatment of my personal data under article 13 of the GDPR (UE regulation 2016/679) exclusively for staff selection and recruiting purposes"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-139129084-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
