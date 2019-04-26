@@ -23,10 +23,15 @@
   url = "/publication/"
   weight = 40
 
+# [[main]]
+#   name = "Conferenze"
+#   url = "/conference/"
+#   weight = 45
+
 [[main]]
   name = "Conferenze"
-  url = "/conference/"
-  weight = 45
+  url = "/talk/"
+  weight = 47
 
 [[main]]
  name = "Vita personale"
@@ -42,5 +47,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/cv.pdf"
+   url = "../files/cv.pdf"
    weight = 70

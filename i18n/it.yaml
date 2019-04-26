@@ -75,6 +75,9 @@
 - id: education
   translation: Formazione
 
+- id: user_profile_latest
+  translation: Recenti
+
 # Accomplishments widget
 
 - id: see_certificate
@@ -123,7 +126,7 @@
 # Publication/Talk details
 
 - id: abstract
-  translation: Abstract
+  translation: Riassunto
 
 - id: publication
   translation: Publicazione
@@ -144,7 +147,7 @@
   translation: Luogo
 
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Nessuna categoria
 
 - id: pub_conf
   translation: Conference paper
@@ -163,6 +166,18 @@
 
 - id: pub_book_section
   translation: Sezione Libro
+
+- id: pub_preprint
+  translation: Preprint
+
+- id: pub_report
+  translation: Report
+
+- id: pub_thesis
+  translation: Tesi
+
+- id: pub_patent
+  translation: Brevetto
 
 # Filtering
 
@@ -211,7 +226,7 @@
   translation: Pagina non trovata
 
 - id: 404_recommendations
-  translation: Forse stavate carcando uno di questi?
+  translation: Forse stavate cercando uno di questi?
 
 # Cookie consent
 
