@@ -25,7 +25,9 @@ email = ""
 interests = [
   "Regional Climate Modeling",
   "Data analysis",
-  "Data science"
+  "Data science",
+  "Spatial data",
+  "Geographic Information Systems"
 ]
 
 # Organizational groups that you belong to (for People widget)

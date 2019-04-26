@@ -23,9 +23,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Modelli climatici regionali",
+  "Modellistica climatica regionale",
   "Analisi dati",
-  "Data science"
+  "Data science",
+  "Dati spaziali",
+  "Sistemi informativi geografici"
 ]
 
 # Organizational groups that you belong to (for People widget)
