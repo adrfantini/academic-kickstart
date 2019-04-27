@@ -33,8 +33,12 @@ title = "Montagne"
   caption = "La cima del Monte Terne, con l'ago della Gusela sullo sfondo. In inverno..."
 [[gallery_item]]
   album = "images"
+  image = "mountain/M_Terne_spring.jpg"
+  caption = "..., primavera..."
+[[gallery_item]]
+  album = "images"
   image = "mountain/M_Terne_summer.JPG"
-  caption = "...e in estate!"
+  caption = "...e estate!"
 [[gallery_item]]
   album = "images"
   image = "mountain/Pale_San_Martino.jpg"

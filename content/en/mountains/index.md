@@ -33,8 +33,12 @@ title = "Mountains"
   caption = "The top of mount Terne, with the Gusela on the background. In winter..."
 [[gallery_item]]
   album = "images"
+  image = "mountain/M_Terne_spring.jpg"
+  caption = "..., spring..."
+[[gallery_item]]
+  album = "images"
   image = "mountain/M_Terne_summer.JPG"
-  caption = "...and in summer! (my brother is somewhere in this picture, too!)"
+  caption = "... and summer! (my brother is somewhere in this picture, too!)"
 [[gallery_item]]
   album = "images"
   image = "mountain/Pale_San_Martino.jpg"
