@@ -99,14 +99,23 @@ user_groups = []
 
 +++
 
-My name is Adriano Fantini; I was born in Belluno, Italy in 1990.
+My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
 
 My academic background is physics, and I obtained a PhD in Earth Science and Fluid Dynamics in 2019 from the University of Trieste, Italy.
-My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations.
+My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations, also on High Performance Computing platforms.
 
-My go-to programming and data analysis language is usually R, and I am also fluent in Python. [Here](https://adrfantini.github.io/r-packages/) you can find a list of my favourite R packages.
+My go-to programming and data analysis language is usually R, and I am also fluent in Python. <!--I am very experienced in particular with data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`), plotting (`ggplot2`) and visualisation (`leaflet`, `mapview`, `shiny`). I use both gridded and sparse spatial data extensively (`raster`, `sf` and `stars`, of which I am a contributor), and built several parallel applications (primarily via the `future` package framework).  -->
+I am very experienced with:
 
-Refer to the pages linked in the header if you want to find more about my education, experience or personal life.
+- data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`);
+- plotting (`ggplot2`);
+- data visualisation (`leaflet`, `mapview`, `shiny`);
+- gridded and sparse spatial data (`raster`, `sf` and `stars`, of which I am a contributor);
+- parallel applications (`future` package framework).
+
+[Here](https://adrfantini.github.io/r-packages/) you can find a list of my favourite R packages.
+
+---
 
 Feel free to contact me for any enquiry, preferably by [email](mailto:adr.fantini+website@gmail.com).
 

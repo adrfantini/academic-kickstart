@@ -101,11 +101,23 @@ user_groups = []
 
 Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990.
 
-Ho studiato fisica, ottenendo nel 2019 un dottorato in Scienze della Terra e Meccanica dei Fluidi presso l'Università di Trieste. Mi occupo prevalentemente di climatologia, idrologia e data science; mi interessano in particolare gli aspetti tecnici e le sfide insite nell'analisi delle grandi quantità di dati derivanti da simulazioni climatiche.
+Ho studiato fisica, ottenendo nel 2019 un dottorato in Scienze della Terra e Meccanica dei Fluidi presso l'Università di Trieste. Mi occupo prevalentemente di climatologia, idrologia e data science; mi interessano in particolare gli aspetti tecnici e le sfide insite nell'analisi delle grandi quantità di dati derivanti da simulazioni climatiche, anche su sistemi di High Performance Computing.
 
-Il mio linguaggio di programmazione preferito è R, ma utilizzo anche Python. [Qui](https://adrfantini.github.io/r-packages/) è possibile trovare una lista (in inglese) dei miei pacchetti R preferiti.
+Il mio linguaggio di programmazione preferito è R, ma utilizzo anche Python. 
+<!--Ho ampia esperienza con la manipolazione di dati (pacchetti R `dplyr`, `readr`, `tidyr`, `purrr`), la creazione di grafici (`ggplot2`) e la visualizzazione (`leaflet`, `mapview`, `shiny`). Utilizzo dati spaziali sia grigliati che vettoriali (`raster`, `sf` e `stars`, di cui sono un collaboratore), e ho costriuto svariate applicazioni parallele (principalmente tramite la famiglia di pacchetti basata su `future`).  -->
+Ho ampia esperienza con:
 
-I link in testa a questa pagina portano alle mie pubblicazioni, le conferenze cui ho partecipato e alcune informazioni sulla mia vita personale.
+- manipolazione di dati (pacchetti R `dplyr`, `readr`, `tidyr`, `purrr`);
+- creazione di grafici (`ggplot2`);
+- visualizzazione (`leaflet`, `mapview`, `shiny`);
+- dati spaziali sia grigliati che vettoriali (`raster`, `sf` e `stars`, di cui sono un collaboratore);
+- applicazioni parallele (famiglia di pacchetti basata su `future`).
+
+[Qui](https://adrfantini.github.io/r-packages/) è possibile trovare una lista (in inglese) dei miei pacchetti R preferiti.
+
+
+
+---
 
 Per ogni informazione o richiesta, contattatemi via [email](mailto:adr.fantini+website@gmail.com).
 
