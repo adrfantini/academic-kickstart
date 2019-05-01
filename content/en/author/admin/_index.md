@@ -99,6 +99,10 @@ user_groups = []
 
 +++
 
+{{% alert note %}}
+I'm currently looking for a job! Send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
+{{% /alert %}}
+
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
 
 My academic background is physics, and I obtained a PhD in Earth Science and Fluid Dynamics in 2019 from the University of Trieste, Italy.
@@ -118,4 +122,3 @@ I am very experienced with:
 ---
 
 Feel free to contact me for any enquiry, preferably by [email](mailto:adr.fantini+website@gmail.com).
-
