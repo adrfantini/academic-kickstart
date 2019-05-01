@@ -100,7 +100,7 @@ user_groups = []
 +++
 
 {{% alert note %}}
-I'm currently looking for a job! Send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
+I'm currently looking for a job! Please send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
 {{% /alert %}}
 
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
