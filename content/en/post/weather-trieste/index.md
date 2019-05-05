@@ -3,7 +3,7 @@ title = "Analysing the weather in Trieste, Italy"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "Using public data from the Molo Bandiera weather station to produce nice plots"
 
 date = 2019-05-05T14:13:29+02:00
 draft = false
@@ -16,8 +16,8 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ['R', 'weather', 'dplyr', 'ggplot2', 'Trieste', 'patchwork']
+categories = ['R', 'weather']
 
 # Code highlighting
 highlight = true
@@ -79,7 +79,10 @@ highlight_languages = ["r"]
   caption = "Precipitation"
 +++
 
-Let's analyse last month's weather in Trieste, Italy, where I live. Trieste is a coastal city well known for its mild climate and strong winds, especially a strong north-westerly wind called the _Bora_. I was away for most of the month, so I do not know much of what happened, and I am curious. We'll use data coming from the regional environmental agency, which can be obtained from [here](http://www.osmer.fvg.it/archivio.php?ln=&p=dati) by selecting:
+Let's analyse last month's weather in Trieste, Italy, where I live. I was away for most of the month, so I do not know much of what happened, and I am curious.
+
+Trieste is a coastal city well known for its mild climate and strong winds, especially a strong, cold, north-easterly wind called the _Bora_ which can easily reach above 100km/h and strikes a few times per year.  
+We'll use data coming from the regional environmental agency, which can be obtained from [here](http://www.osmer.fvg.it/archivio.php?ln=&p=dati) by selecting:
 
 - select _anno_ (year) and _mese_ (month)
 - _giorno_ (day) -> tutti (all)
@@ -151,6 +154,7 @@ We want to plot the following:
 - A line between Sunday and Monday to separate weeks
 - A caption
 - Different color scales for different variables
+- Overlay wind arrows (spokes) for each moment
 
 We'll see how I covered all of this in a single function.
 
@@ -278,7 +282,7 @@ monthPlot = function(
 }
 ```
 
-Now nothing's left but plotting!
+Now nothing's left but plotting, choosing appropriate colors for each variable.
 
 ```R
 dir.create('lastmonth_plots', recursive = TRUE, showWarnings = FALSE)
@@ -326,7 +330,9 @@ p9 = d %>%
 ggsave(plot = p9, filename = "lastmonth_plots/WindMaxDir.png")
 ```
 
-And here are the results: click on the images to enlarge.
+And here are the results: click on the images to enlarge. Notice that we had 5 days of strong winds between the 11th and the 15th: in those days the wind direction was predominantly from the North-East, so the wind was _bora_.  
+It was followed by a bout of good weather and high pressure, which ended with a bit of rain on the 23rd (least sunny day of the month).  
+Also, interestingly, we have winds predominantly from the sea (West, greens) during the day, and from the land (East, reds) during the night. This is the well--known [sea breeze](https://en.wikipedia.org/wiki/Sea_breeze) effect.
 
 {{< gallery album="post-weather-trieste" >}}
 
@@ -335,7 +341,7 @@ And here are the results: click on the images to enlarge.
 As an added bonus, we can calculate the correlation between the different variables, even though that's just on a very small time scale, so not very robust. We use only packages from the `tidyverse` (`tibble`, `tidyr`, `dplyr`):
 
 ```R
-gg = d %>%
+pcorr = d %>%
     select(-Day, -Hour, -Month, -Year) %>%
     cor(use = "na.or.complete") %>%
     as.data.frame() %>%
@@ -362,12 +368,14 @@ gg = d %>%
         Data source: ARPA FVG, OSMER and GRN – www.meteo.fvg.it       Produced by: Adriano Fantini  – www.adrianofantini.eu")) +
         coord_cartesian(expand=c(0,0))
 
-ggsave(plot=gg, filename = "lastmonth_plots/correlation.png", w=7, h=7.2)
+ggsave(plot=pcorr, filename = "lastmonth_plots/correlation.png", w=7, h=7.2)
 ```
 
 <img src="/img/post/weather-trieste/correlation.png" style="width:70%;" title="Correlation between weather variables in Trieste, April 2019">
 
-As expected, some variables are strongly correlated (max wind and average wind speeds, or humidity and rain) while others are anti-correlated (humidity and average wind speed). However, doing this same analysis on a much larger timescale would probably lead to more interesting and robust results.
+As expected, some variables are strongly correlated (max wind and average wind speeds, or humidity and rain) while others are anti-correlated (humidity and average wind speed). However, doing this same analysis on a much larger timescale would probably lead to more interesting and robust results: I would expect for example temperature to be positively correlated with radiation.
+
+Note that the correlations with wind direction variables are not really that simple to interpret, since they are periodic variables where `0==360`.
 
 ---
 
@@ -379,14 +387,15 @@ library(patchwork)
 pptheme = theme(
     plot.title = element_text(face="bold", size = 22, colour = "grey20", hjust = 0.5)
 )
-pp3 = p7 + p3 + p8 + p9 + p1 + p6 + p2 + p4 + p5 + gg + plot_layout(ncol = 5) +
+# Order plots by your preference
+pp3 = p7 + p3 + p8 + p9 + p1 + p6 + p2 + p4 + p5 + gcorr + plot_layout(ncol = 5) +
     plot_annotation(
         title = paste(month.name[as.numeric(last_month)], year, 'weather in Molo Fratelli Bandiera, Trieste, Italy'),
         theme = pptheme,
         caption = "Data source: ARPA FVG, OSMER and GRN – www.meteo.fvg.it
                  Produced by: Adriano Fantini  – www.adrianofantini.eu"
         ) &
-    labs(caption = NULL) # Remove caption from all plots
+    labs(caption = NULL) # Remove caption from all plots, since we have a global caption
 ggsave(plot = pp3, filename = "lastmonth_plots/patchwork.png", w = 35, h = 15, dpi = 200)
 ```
 
