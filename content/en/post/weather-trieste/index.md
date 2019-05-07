@@ -91,6 +91,10 @@ We'll use data coming from the regional environmental agency, which can be obtai
 - _visualizza dati_ (retrieve data)
 - scroll to the end of the page, and click _salva come csv_ (save as csv)
 
+{{% alert note %}}
+See [this](https://github.com/adrfantini/lastmonth-weather) GitHub repo for the complete code for this blog post!
+{{% /alert %}}
+
 The `.csv` file we'll get contains all the data from this station, which has several sensors. We'll use only R to read and plot the data, primarily via some packages in the [`tidyverse`](https://www.tidyverse.org/). Let's first load the packages that we need.
 
 ```R
@@ -390,7 +394,7 @@ pptheme = theme(
     plot.title = element_text(face="bold", size = 22, colour = "grey20", hjust = 0.5)
 )
 # Order plots by your preference
-pp3 = p7 + p3 + p8 + p9 + p1 + p6 + p2 + p4 + p5 + gcorr + plot_layout(ncol = 5) +
+pp3 = p7 + p3 + p8 + p9 + p1 + p6 + p2 + p4 + p5 + pcorr + plot_layout(ncol = 5) +
     plot_annotation(
         title = paste(month.name[as.numeric(last_month)], year, 'weather in Molo Fratelli Bandiera, Trieste, Italy'),
         theme = pptheme,
