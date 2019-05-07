@@ -106,6 +106,7 @@ I prepare these plots periodically, so I automate the selection of the last comp
 current_date = Sys.Date()
 year = format(current_date, "%Y")
 month = format(current_date, "%m")
+basepath = "csv/dati-orari-Trieste molo F.lli Bandiera-"
 
 last_month = (as.numeric(month) - 1) %>% sprintf(fmt = '%02d')
 ```
@@ -113,6 +114,7 @@ last_month = (as.numeric(month) - 1) %>% sprintf(fmt = '%02d')
 Now open the `.csv` file, removing unwanted characters and three empty lines at the end:
 
 ```R
+fn = paste0(basepath, year, last_month, ".csv")
 csv = read.csv(fn, sep=";", stringsAsFactors=FALSE, na.strings = c("NA", "-", " - ", "NaN", "", "/", "NAN", "NULL"))
 csv = csv[1:(nrow(csv)-3),]
 ```
