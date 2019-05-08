@@ -105,7 +105,8 @@ Sono attualmente alla ricerca di un lavoro! Contattatemi via [email](mailto:adr.
 
 Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990. Vivo attualmente a Trieste con la mia compagna e nostra figlia, nata nel 2010.
 
-Ho studiato fisica, ottenendo nel 2019 un dottorato in Scienze della Terra e Meccanica dei Fluidi presso l'Università di Trieste. Mi occupo prevalentemente di climatologia, idrologia e data science; mi interessano in particolare gli aspetti tecnici e le sfide insite nell'analisi delle grandi quantità di dati derivanti da simulazioni climatiche, anche su sistemi di High Performance Computing.
+Ho studiato fisica, ottenendo nel 2019 un dottorato in Scienze della Terra e Meccanica dei Fluidi presso l'Università di Trieste. Mi occupo prevalentemente di climatologia, idrologia e data science; mi interessano in particolare gli aspetti tecnici e le sfide insite nell'analisi delle grandi quantità di dati derivanti da simulazioni climatiche, anche su sistemi di High Performance Computing.  
+Utilizzo e mantengo sistemi Linux dal 2007, incluso un piccolo [server]({{< ref "server" >}}) ArchLinux personale.
 
 Il mio linguaggio di programmazione preferito è R, ma utilizzo anche Python. 
 <!--Ho ampia esperienza con la manipolazione di dati (pacchetti R `dplyr`, `readr`, `tidyr`, `purrr`), la creazione di grafici (`ggplot2`) e la visualizzazione (`leaflet`, `mapview`, `shiny`). Utilizzo dati spaziali sia grigliati che vettoriali (`raster`, `sf` e `stars`, di cui sono un collaboratore), e ho costriuto svariate applicazioni parallele (principalmente tramite la famiglia di pacchetti basata su `future`).  -->

@@ -106,7 +106,8 @@ I'm currently looking for a job! Please send me an [email](mailto:adr.fantini+we
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
 
 My academic background is physics, and I obtained a PhD in Earth Science and Fluid Dynamics in 2019 from the University of Trieste, Italy.
-My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations, also on High Performance Computing platforms.
+My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations, also on High Performance Computing platforms.  
+I have extensive experience with running and managing Linux systems, including building and maintaining my own small ArchLinux [server]({{< ref "server" >}}).
 
 My go-to programming and data analysis language is usually R, and I am also fluent in Python. <!--I am very experienced in particular with data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`), plotting (`ggplot2`) and visualisation (`leaflet`, `mapview`, `shiny`). I use both gridded and sparse spatial data extensively (`raster`, `sf` and `stars`, of which I am a contributor), and built several parallel applications (primarily via the `future` package framework).  -->
 I am very experienced with:
