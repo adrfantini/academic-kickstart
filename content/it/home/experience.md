@@ -31,6 +31,8 @@ date_format = "Jan 2006"
   * Analizzare e maneggiare dati provenienti da modelli e osservazioni
   * Modellistica climatica ed idrologica
   * Supporto tecnico per l'analisi dati
+  * Visualizzazione dati
+  * Creazione di interfacce grafiche per l'analisi dati
   """
 
 [[experience]]

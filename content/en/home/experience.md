@@ -31,6 +31,8 @@ date_format = "Jan 2006"
   * Analysing and handling data
   * Modelling climate and hydrology
   * Providing technical support
+  * Data visualisation
+  * Creation of graphical user interfaces for data analysis
   """
 
 [[experience]]
