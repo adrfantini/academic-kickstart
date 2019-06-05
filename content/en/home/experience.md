@@ -42,7 +42,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italy"
   date_start = "2015-11-01"
   date_end = "2019-03-15"
-  description = """Ph.D. program in Earth Science and Fluid Mechanics in collaboration with ICTP-ESP and the Allianz insurance company. Project title: _Climate change impact on flood hazard over Italy_"""
+  description = """Ph.D. program in Earth Science and Fluid Mechanics in collaboration with ICTP-ESP and the Allianz insurance company. Project title: _Climate change impact on flood hazard over Italy_.  
+Title obtained _cum laude_."""
 
 [[experience]]
   title = "Postlauream collaborator"
@@ -51,7 +52,7 @@ date_format = "Jan 2006"
   location = "Trieste, Italy"
   date_start = "2015-03-20"
   date_end = "2015-11-01"
-  description = """Tidying up the work from my Master's thesis"""
+  description = """Tidying up the work from my Master's thesis."""
 
 [[experience]]
   title = "Master's Student"
@@ -60,7 +61,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italy"
   date_start = "2012-12-20"
   date_end = "2015-03-20"
-  description = """Specialisation in Earth Sciences. Thesis title: _Evaluation of the impact of the high resolution for the Alpine region in a present-day and future scenario simulation with the regional climate model RegCM4_"""
+  description = """Specialisation in Earth Sciences. Thesis title: _Evaluation of the impact of the high resolution for the Alpine region in a present-day and future scenario simulation with the regional climate model RegCM4_.  
+Evaluation: 110/110 _cum laude_."""
 
 [[experience]]
   title = "Bachelor Student"
@@ -69,6 +71,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italy"
   date_start = "2009-10-01"
   date_end = "2012-11-26"
-  description = """Thesis title: _Use of the Arduino microcontroller to carry out measurements in the teaching of Physics in laboratories_ (in Italian)"""
+  description = """Scholarship obtained from the [Collegio Fonda](https://www.collegiofonda.it/) after written and oral examinations.
+Thesis title: _Use of the Arduino microcontroller to carry out measurements in the teaching of Physics in laboratories_ (in Italian).  
+Evaluation: 106/110."""
 
 +++

@@ -42,7 +42,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italia"
   date_start = "2015-11-01"
   date_end = "2019-03-15"
-  description = """Programma di dottorato in Scienze della terra e meccanica dei fluidi, in collaborazione con il gruppo ICTP-ESP e la compagnia assicuratrice Allianz. Titolo del progetto: _Climate change impact on flood hazard over Italy_"""
+  description = """Programma di dottorato in Scienze della terra e meccanica dei fluidi, in collaborazione con il gruppo ICTP-ESP e la compagnia assicuratrice Allianz. Titolo del progetto: _Climate change impact on flood hazard over Italy_.  
+Titolo conseguito con lode."""
 
 [[experience]]
   title = "Collaboratore postlauream"
@@ -51,7 +52,7 @@ date_format = "Jan 2006"
   location = "Trieste, Italia"
   date_start = "2015-03-20"
   date_end = "2015-11-01"
-  description = """Conclusione e affinamento del lavoro svolto durante la mia tesi magistrale"""
+  description = """Conclusione e affinamento del lavoro svolto durante la mia tesi magistrale."""
 
 [[experience]]
   title = "Laurea magistrale"
@@ -60,7 +61,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italia"
   date_start = "2012-12-20"
   date_end = "2015-03-20"
-  description = """Specializzazione in Scienze della Terra. Titolo tesi: _Evaluation of the impact of the high resolution for the Alpine region in a present-day and future scenario simulation with the regional climate model RegCM4_"""
+  description = """Specializzazione in Scienze della Terra. Titolo tesi: _Evaluation of the impact of the high resolution for the Alpine region in a present-day and future scenario simulation with the regional climate model RegCM4_.  
+Voto: 110/110 con lode."""
 
 [[experience]]
   title = "Laurea triennale"
@@ -69,6 +71,8 @@ date_format = "Jan 2006"
   location = "Trieste, Italia"
   date_start = "2009-10-01"
   date_end = "2012-11-26"
-  description = """Titolo tesi: _Utilizzo del microcontrollore Arduino per la realizzazione di misure nei laboratori didattici dei corsi di Fisica_"""
+  description = """Borsa di studio di eccellenza garantita dal [Collegio Fonda](https://www.collegiofonda.it/) sulla base di valutazione scritta ed orale.
+Titolo tesi: _Utilizzo del microcontrollore Arduino per la realizzazione di misure nei laboratori didattici dei corsi di Fisica_.  
+Voto: 106/110."""
 
 +++
