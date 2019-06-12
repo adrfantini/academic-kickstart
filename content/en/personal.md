@@ -2,8 +2,8 @@
 layout: archive
 title: "Personal life"
 permalink: /personal/
-author_profile: true
-share: true
+
+share: false
 ---
 
 

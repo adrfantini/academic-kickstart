@@ -2,7 +2,8 @@
 layout: archive
 title: "My personal server"
 permalink: /server/
-author_profile: true
+
+share: false
 ---
 
 

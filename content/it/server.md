@@ -2,7 +2,8 @@
 layout: archive
 title: "Il mio server personale"
 permalink: /server/
-author_profile: true
+
+share: false
 ---
 
 Ho recentemente assemblato un mio piccolo server personale, bassato su [ArchLinux](www.archlinux.org), la mia distribuzione Linux preferita. Il serverino fornisce servizi di cloud storage e streaming per tutta la mia famiglia. Utilizza una scheda madre mini-ITX con una CPU a basso consumo Intel J3455 della famiglia Apollo Lake. Può ospitare 4 hard disk da 3.5": al momento utilizzo due dischi da 3TB per i dati e uno da 1TB per backup del sistema operativo e come cache di sistema. L'OS è installato su un SSD da 500GB, che funziona anche come cache dati di primo livello.

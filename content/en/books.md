@@ -2,7 +2,8 @@
 layout: archive
 title: "Favourite books and comics"
 permalink: /books/
-author_profile: true
+
+share: false
 ---
 
 
