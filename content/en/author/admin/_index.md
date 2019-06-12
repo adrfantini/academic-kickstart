@@ -16,7 +16,7 @@ role = "Climatologist and data scientist"
 organizations = [ { name = "International Centre for Theoretical Physics", url = "https://www.ictp.it" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include regional climate modeling, data analysis and data science"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

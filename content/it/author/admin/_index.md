@@ -16,7 +16,7 @@ role = "Climatologo e data scientist"
 organizations = [ { name = "Centro Internazionale di Fisica Teorica", url = "https://www.ictp.it" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I miei interessi di ricerca vertono principalmente sui modelli climatici regionali, l'analisi dati e la data science"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
