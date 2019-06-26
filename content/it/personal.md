@@ -2,7 +2,8 @@
 layout: archive
 title: "Vita personale"
 permalink: /personal/
-author_profile: true
+
+share: false
 ---
 
 Sono nato a [Belluno](https://it.wikipedia.org/wiki/Belluno), nel 1990, ed ho lì vissuto sino al momento in cui ho dovuto trasferirmi, per frequentare l'università. Ora vivo a [Trieste](https://it.wikipedia.org/wiki/Trieste) con la mia compagna e la nostra splendida figlia, nata nel 2010.

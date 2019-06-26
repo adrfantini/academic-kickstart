@@ -2,7 +2,8 @@
 layout: archive
 title: "Libri e fumetti preferiti"
 permalink: /books/
-author_profile: true
+
+share: false
 ---
 
 Ho un gusto ampio e semplice per quanto riguarda le mie letture: leggo di tutto, ma soprattutto fantascienza, fantasy e libri di montagna
