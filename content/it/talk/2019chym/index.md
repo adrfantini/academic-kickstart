@@ -66,7 +66,7 @@ links = [
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/part_cert/2019_chym_trieste.pdf"
 url_video = ""
 url_code = ""
 
