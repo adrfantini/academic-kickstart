@@ -54,7 +54,11 @@ title = "Mountains"
 [[gallery_item]]
   album = "images"
   image = "mountain/Zoldo_from_M_Punta.jpeg"
-  caption = "The Zoldo region from mount Punta, a magnificent belvedere. The Throne of the King, mount Pelmo, in the center"
+  caption = "The Zoldo region from mount Punta, a magnificent belvedere. The Throne, Mount Pelmo, dominates the Zoldo Valley"
+[[gallery_item]]
+  album = "images"
+  image = "mountain/M_Ferrara.jpg"
+  caption = "Panorama from Mount Ferrara, in the heart of the Dolomiti Friulane"
 [[gallery_item]]
   album = "images"
   image = "mountain/Marmot.jpg"

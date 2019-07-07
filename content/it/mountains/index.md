@@ -57,6 +57,10 @@ title = "Montagne"
   caption = "Lo zoldano dal Monte Punta, uno splendido belvedere. Il Caregon del Padreterno, il Monte Pelmo, al centro"
 [[gallery_item]]
   album = "images"
+  image = "mountain/M_Ferrara.jpg"
+  caption = "Panorama dal Monte Ferrara, nel cuore delle Dolomiti Friulane"
+[[gallery_item]]
+  album = "images"
   image = "mountain/Marmot.jpg"
   caption = "Una marmotta!"
 
