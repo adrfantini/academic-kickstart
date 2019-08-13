@@ -99,9 +99,9 @@ user_groups = []
 
 +++
 
-{{% alert note %}}
-I'm currently on the job market! Please send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
-{{% /alert %}}
+#{{% alert note %}}
+#I'm currently on the job market! Please send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
+#{{% /alert %}}
 
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
 
