@@ -99,9 +99,11 @@ user_groups = []
 
 +++
 
-#{{% alert note %}}
-#Sono attualmente alla ricerca di un lavoro! Contattatemi via [email](mailto:adr.fantini+website@gmail.com) se pensate che il mio profilo possa adattarsi alle vostre necessità.
-#{{% /alert %}}
+<!--
+{{% alert note %}}
+Sono attualmente alla ricerca di un lavoro! Contattatemi via [email](mailto:adr.fantini+website@gmail.com) se pensate che il mio profilo possa adattarsi alle vostre necessità.
+{{% /alert %}}
+-->
 
 Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990. Vivo attualmente a Trieste con la mia compagna e nostra figlia, nata nel 2010.
 
