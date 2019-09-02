@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.53"
   HUGO_ENABLEGITINFO = "true"
+  NODE_VERSION = "10.16.0"
 
 [context.production.environment]
   HUGO_ENV = "production"
