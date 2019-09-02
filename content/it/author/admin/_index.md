@@ -99,7 +99,7 @@ user_groups = []
 
 +++
 
-Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990. Vivo attualmente a Trieste con la mia compagna e nostra figlia, nata nel 2010.
+Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990. Vivo attualmente a Belluno con la mia compagna e nostra figlia, nata nel 2010.
 
 Ho studiato fisica, ottenendo nel 2019 un dottorato in Scienze della Terra e Meccanica dei Fluidi presso l'Università di Trieste. Mi occupo prevalentemente di climatologia, idrologia e data science; mi interessano in particolare gli aspetti tecnici e le sfide insite nell'analisi delle grandi quantità di dati derivanti da simulazioni climatiche, anche su sistemi di High Performance Computing.  
 Utilizzo e mantengo sistemi Linux dal 2007, incluso un piccolo [server]({{< ref "server" >}}) ArchLinux personale.
