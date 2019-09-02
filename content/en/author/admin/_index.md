@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Climatologist and data scientist"
+role = "Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "International Centre for Theoretical Physics", url = "https://www.ictp.it" } ]
+organizations = [ { name = "Higeco", url = "http://www.higeco.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -98,12 +98,6 @@ user_groups = []
   link = "files/cv_en.pdf"
 
 +++
-
-<!--
-{{% alert note %}}
-I'm currently on the job market! Please send me an [email](mailto:adr.fantini+website@gmail.com) if you think my profile matches your requirements.
-{{% /alert %}}
--->
 
 My name is Adriano Fantini; I was born in Belluno, Italy in 1990. I currently live in Trieste with my girlfriend and our daughter, born in 2010.
 

@@ -19,12 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data scientist"
+  company = "Higeco"
+  company_url = "https://www.higeco.com"
+  location = "Belluno, Italia"
+  date_start = "2019-09-16"
+  date_end = ""
+
+[[experience]]
   title = "Visiting scientist"
   company = "International Centre for Theoretical Physics - gruppo Earth System Physics"
   company_url = "https://www.ictp.it/research/esp/members.aspx"
   location = "Trieste, Italia"
   date_start = "2019-03-15"
-  date_end = ""
+  date_end = "2019-08-31"
   description = """
   I miei compiti includono:
 

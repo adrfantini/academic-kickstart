@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Climatologo e data scientist"
+role = "Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Centro Internazionale di Fisica Teorica", url = "https://www.ictp.it" } ]
+organizations = [ { name = "Higeco", url = "http://www.higeco.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -98,12 +98,6 @@ user_groups = []
   link = "../files/cv_it.pdf"
 
 +++
-
-<!--
-{{% alert note %}}
-Sono attualmente alla ricerca di un lavoro! Contattatemi via [email](mailto:adr.fantini+website@gmail.com) se pensate che il mio profilo possa adattarsi alle vostre necessità.
-{{% /alert %}}
--->
 
 Mi chiamo Adriano Fantini; sono nato a Belluno il 6 novembre 1990. Vivo attualmente a Trieste con la mia compagna e nostra figlia, nata nel 2010.
 
