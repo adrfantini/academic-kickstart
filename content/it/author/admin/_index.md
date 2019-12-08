@@ -116,6 +116,8 @@ Ho ampia esperienza con:
 
 [Qui](https://adrfantini.github.io/r-packages/) è possibile trovare una lista (in inglese) dei miei pacchetti R preferiti.
 
+Lavorando come sviluppatore presso [Higeco](https://www.higeco.com/) ho iniziato ad fare esperienza anche con i linguaggi JavaScript (Node.js), Lua e C.
+
 ---
 
 Per ogni informazione o richiesta, contattatemi via [email](mailto:adr.fantini+website@gmail.com).

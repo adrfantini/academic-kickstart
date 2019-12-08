@@ -105,7 +105,7 @@ My academic background is physics, and I obtained a PhD in Earth Science and Flu
 My areas of expertise are climatology, hydrology and data science; I especially enjoy the technical aspects and challenges of data analysis and of the handling of large climatic simulations, also on High Performance Computing platforms.  
 I have extensive experience with running and managing Linux systems, including building and maintaining my own small ArchLinux [server]({{< ref "server" >}}).
 
-My go-to programming and data analysis language is usually R, and I am also fluent in Python. <!--I am very experienced in particular with data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`), plotting (`ggplot2`) and visualisation (`leaflet`, `mapview`, `shiny`). I use both gridded and sparse spatial data extensively (`raster`, `sf` and `stars`, of which I am a contributor), and built several parallel applications (primarily via the `future` package framework).  -->
+My go-to data analysis language is usually R, and I am also fluent in Python. <!--I am very experienced in particular with data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`), plotting (`ggplot2`) and visualisation (`leaflet`, `mapview`, `shiny`). I use both gridded and sparse spatial data extensively (`raster`, `sf` and `stars`, of which I am a contributor), and built several parallel applications (primarily via the `future` package framework).  -->
 I am very experienced with:
 
 - data handling (R packages `dplyr`, `readr`, `tidyr`, `purrr`);
@@ -115,6 +115,8 @@ I am very experienced with:
 - parallel applications (`future` package framework).
 
 [Here](https://adrfantini.github.io/r-packages/) you can find a list of my favourite R packages.
+
+While working as a developer at [Higeco](https://www.higeco.com/en), I also started coding in JavaScript (Node.js), Lua and C.
 
 ---
 

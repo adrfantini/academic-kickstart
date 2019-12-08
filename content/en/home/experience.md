@@ -19,12 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Data scientist"
+  title = "Data scientist and developer"
   company = "Higeco"
   company_url = "https://www.higeco.com"
   location = "Belluno, Italy"
   date_start = "2019-09-16"
   date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Analysing and handling the vast amount of collected data
+  * Short and medium term forecasting of power requirements for microgrids and production plants
+  * Project development and research in new, unexplored possibilities of the company's hardware
+  """
 
 [[experience]]
   title = "Visiting scientist"
