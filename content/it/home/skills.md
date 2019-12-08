@@ -31,6 +31,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistica"
   description = ""
+  
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "High Performance Computing"
+  description = ""
+  
+[[feature]]
+  icon = "globe-europe"
+  icon_pack = "fas"
+  name = "GIS"
+  description = ""
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = ""
 
 [[feature]]
   icon = "r-project"
@@ -51,21 +69,22 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "server"
-  icon_pack = "fas"
-  name = "High Performance Computing"
-  description = ""
-  
-[[feature]]
-  icon = "globe-europe"
-  icon_pack = "fas"
-  name = "GIS"
-  description = ""
-  
-[[feature]]
-  icon = "linux"
+  icon = "node"
   icon_pack = "fab"
-  name = "Linux"
+  name = "Node JS"
+  description = ""
+  
+[[feature]]
+  icon = "copyright"
+  icon_pack = "far"
+  name = "C"
+  description = ""
+  
+  
+[[feature]]
+  icon = "circle"
+  icon_pack = "far"
+  name = "Lua"
   description = ""
   
 # [[feature]]
