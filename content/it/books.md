@@ -6,7 +6,7 @@ permalink: /books/
 share: false
 ---
 
-Ho un gusto ampio e semplice per quanto riguarda le mie letture: leggo di tutto, ma soprattutto fantascienza, fantasy e libri di montagna
+Ho un gusto ampio e semplice per quanto riguarda le mie letture: leggo di tutto, ma soprattutto fantascienza, fantasy e libri di montagna.
 
 Il mio libro fantasy preferito è [_Il Silmarillion_](https://it.wikipedia.org/wiki/Il_Silmarillion), un'epica straordinaria in salsa fantastica. Ultimamente ho apprezzato molto il [ciclo delle guardie](https://en.wikipedia.org/wiki/Ankh-Morpork_City_Watch) di Terry Pratchett e la [serie di Mistborn](https://en.wikipedia.org/wiki/Mistborn) di Brandon Sanderson.
 

@@ -116,7 +116,7 @@ Ho ampia esperienza con:
 
 [Qui](https://adrfantini.github.io/r-packages/) è possibile trovare una lista (in inglese) dei miei pacchetti R preferiti.
 
-Lavorando come sviluppatore presso [Higeco](https://www.higeco.com/) ho iniziato ad fare esperienza anche con i linguaggi JavaScript (Node.js), Lua e C.
+Lavorando come sviluppatore presso [Higeco](https://www.higeco.com/) ho imparato a decifrare un po' di C, e a programmare efficacemente in JavaScript (sia backend che frontend) e Lua (scripting e plugin di sistema).
 
 ---
 

@@ -6,7 +6,8 @@ permalink: /personal/
 share: false
 ---
 
-Sono nato a [Belluno](https://it.wikipedia.org/wiki/Belluno), nel 1990, ed ho lì vissuto sino al momento in cui ho dovuto trasferirmi, per frequentare l'università. Ora vivo a [Trieste](https://it.wikipedia.org/wiki/Trieste) con la mia compagna e la nostra splendida figlia, nata nel 2010.
+Sono nato a [Belluno](https://it.wikipedia.org/wiki/Belluno), nel 1990, ed ho lì vissuto sino al momento in cui ho dovuto trasferirmi, per frequentare l'università, a [Trieste](https://it.wikipedia.org/wiki/Trieste). Ho lì vissuto con la mia compagna e la nostra splendida figlia, nata nel 2010, per 10 anni.
+Nell'estate del 2019 ci siamo ritrasferiti a Belluno, dove viviamo.
 
 Mi piace sporcarmi le mani costruendo, aggiustando e (spesso) rompendo cose: eseguo manutenzioni e riparazioni della mia auto io stesso, e mi diletto di falegnameria ed elettronica.
 

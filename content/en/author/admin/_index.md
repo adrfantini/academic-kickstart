@@ -116,7 +116,8 @@ I am very experienced with:
 
 [Here](https://adrfantini.github.io/r-packages/) you can find a list of my favourite R packages.
 
-While working as a developer at [Higeco](https://www.higeco.com/en), I also started coding in JavaScript (Node.js), Lua and C.
+While working as a developer at [Higeco](https://www.higeco.com/en), I also learned a little bit of C,
+quite a bit of JavaScript (both backend and frontend) and lots of Lua (scripting, system plugins).
 
 ---
 
