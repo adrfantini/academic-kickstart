@@ -17,4 +17,6 @@ I'm particularly interested in technology and its role in shaping modern society
 
 I am an avid reader: I read all kind of books, but enjoy fantasy, historical and mountaineering books the most. [Here] ( {{< ref "books" >}}) you can read about a few of my favourite books and comics.
 
+Since 2013 I am one of the chief organisers of the [Great snowball fight](https://gbpn.netlify.app/), an epic annual event based on snowballs (and lots of risotto).
+
 Living in Belluno for the most part of my youth left me with a constitutional and unconditioned love for mountains. I love climbing, trekking and hiking, and always find refuge in mountaineering when possible. Read more about it [here] ( {{< ref "mountains" >}}).

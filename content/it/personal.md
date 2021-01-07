@@ -16,4 +16,6 @@ Mi interesso inoltre a tutti gli aspetti della tecnologia e nel suo ruolo nel pl
 
 Sono un lettore accanito: leggo di tutto, ma soprattutto fantasy, fantascienza e libri di montagna. [Qui] ( {{< ref "books" >}}) potete trovare alcuni tra i miei libri e fumetti preferiti.
 
+Dal 2013 sono uno degli organizzatori della [Grande Battaglia di Palle di Neve](https://gbpn.netlify.app/it/), un epico evento annuale all'insegna delle palle di neve e del risotto.
+
 Vivere a Belluno, circondato da cime stupende, mi ha lasciato con un amore incondizionato per le montagne. Amo arrampicare e camminare, e trovo sempre rifugio in montagna non appena possibile. Qualche informazione e foto in proposito si possono trovare [qui] ( {{< ref "mountains" >}}).
