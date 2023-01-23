@@ -19,12 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Responsabile sviluppo software"
+  company = "Higeco"
+  company_url = "https://www.higecomore.com"
+  location = "Belluno, Italia"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """
+  I miei compiti includono:
+
+  * Gestione del gruppo di sviluppo software
+  * Gestione dei prodotti software
+  * Interfacciamento con clienti
+  * Definizione di procedure, strumenti e metodologie di sviluppo software  
+  """
+
+[[experience]]
   title = "Data scientist e sviluppatore"
   company = "Higeco"
   company_url = "https://www.higeco.com"
   location = "Belluno, Italia"
   date_start = "2019-09-16"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """
   I miei compiti includono:
 
